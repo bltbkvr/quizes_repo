@@ -1,0 +1,45 @@
+{
+  "id": "4e32d8fe-9462-4c3e-8e6e-0b04daef9c13",
+  "questions": [
+    {
+      "id": "cd7ea056-6b5c-4180-9bf1-3bc8d6d3e949",
+      "questionText": "Which planet is known as the Red Planet?",
+      "score": 10,
+      "questionType": "single",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "2f0e2e0f-5758-4b21-b356-26384767c92f",
+      "questionText": "Who developed the theory of relativity?",
+      "score": 10,
+      "questionType": "short",
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": "7917c03e-7d88-4f0f-82cc-2e032c688a85",
+      "questionText": "Name one of the five senses.",
+      "score": 10,
+      "questionType": "short",
+      "correctAnswer": "Sight"
+    },
+    {
+      "id": "9e7f4a57-d3a5-4f70-8362-bb796f61e7b2",
+      "questionText": "What is the capital of Japan?",
+      "score": 10,
+      "questionType": "single",
+      "options": ["Tokyo", "Beijing", "Seoul", "Bangkok"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "fe8eb9c8-838e-40ec-97cf-842d2b4a78e3",
+      "questionText": "Which gas makes up the majority of Earth's atmosphere?",
+      "score": 10,
+      "questionType": "single",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "correctOptionIndex": 1
+    }
+  ],
+  "scoreToPass": 80,
+  "authorId": 2
+}
